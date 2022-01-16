@@ -1,0 +1,15 @@
+img {
+  border-radius: 50%;
+}
+
+td {
+  font-size: 1.2em;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  vertical-align: middle;
+}
+
+.button-save {
+  width: 10rem;
+}
+/*# sourceMappingURL=ReadOnlyRows.css.map */

@@ -1,0 +1,14 @@
+.table {
+  margin-top: 2%;
+  text-align: center;
+}
+
+.table-head {
+  text-align: center;
+  height: 5rem;
+  font-size: 1.2rem;
+}
+td {
+  font-size: 1rem;
+}
+/*# sourceMappingURL=TableData.css.map */
